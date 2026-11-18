@@ -1,0 +1,3 @@
+SalemEDU SAT Millionaire Pro
+Extract the ZIP first. Upload ALL files in this folder to the same GitHub repository root (index.html, bank.js, pack-01.js through pack-74.js). Do not upload ZIP itself. No server or external libraries needed. Question image packs are loaded on demand. Browser storage is local.
+{(1, 1): 132, (1, 2): 112, (2, 1): 201, (2, 2): 209, (3, 1): 152, (3, 2): 154, (4, 1): 129, (4, 2): 132, (5, 1): 130, (5, 2): 165, (6, 1): 135, (6, 2): 143, (7, 1): 182, (7, 2): 174, (8, 1): 91, (8, 2): 93, (9, 1): 157, (9, 2): 173}
